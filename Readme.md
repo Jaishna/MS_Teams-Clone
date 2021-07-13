@@ -5,7 +5,7 @@ A video and chat application based on the functionality of MS Teams. It is a pla
 
 More on Socket.io:
 _It enables realtime, bi-directional communication between web clients and servers. It has two parts: a client-side library that runs in the browser, and a server-side library for Node.js. Both components have a nearly identical API. Like Node.js, it is event-driven.
-_
+
 
 This project is submitted as part of the Submission Phase of **Microsoft Engage 2021.**
 
