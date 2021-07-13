@@ -26,6 +26,22 @@ Watch the video below for better understanding:
 https://www.youtube.com/watch?v=juxTmWbDyrg
 
 
+## Agile Methodology
+
+Followed the Agile Methodology to complete the project. Worked in SPRINTS!
+
+Phase 1: PLANNING
+- Studied the features of MS Teams 
+- Surveyed a small group of people on the problems they face in conventional telephony
+- Listed the functionalities that could be added!
+
+Phase 2: DESIGNING
+- Designed the interface to make it as user-friendly as possible
+- Broke and understood the authentication system.
+
+Phase 3: CODING
+- Started coding the mandatory feature and side by side kept listing down the additional features which could be added.
+- Coded all the features I could and following the Zero Bug Bounce Policy, removed errors constantly.
 
     
 ## Deployment
