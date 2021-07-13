@@ -1,30 +1,30 @@
 
 # MS TEAMS CLONE
 
-A video and chat application based on the functionality of MS Teams.
+A video and chat application based on the functionality of MS Teams. It is a platform on which people can talk in real time using the web. It uses the Socket.io Javascript library to build the skeleton of the project.
 
-It is submitted as part of the Submission Phase of Microsoft Engage 2021.
+More on Socket.io:
+_It enables realtime, bi-directional communication between web clients and servers. It has two parts: a client-side library that runs in the browser, and a server-side library for Node.js. Both components have a nearly identical API. Like Node.js, it is event-driven.
+_
+
+This project is submitted as part of the Submission Phase of **Microsoft Engage 2021.**
 
 ## Features
 
+- Video Conferencing
+- Chat application
 - Proper Authentication
 - Switch ON/OFF video and microphone 
-- Chat application
 
-  
 ## Screenshot
 
-![App Screenshot](https://blogofjaishna.files.wordpress.com/2021/07/screenshot-2021-07-13-at-4.58.59-pm.png?w=2048)
+https://drive.google.com/file/d/1Hb7gdyV7-3r7fUj2ETnbHhPPAKJInSP4/view?usp=sharing
 
-  
 ## Demo
 
 Watch the video below for better understanding:
 https://www.youtube.com/watch?v=juxTmWbDyrg
 
-
-  
-![Logo](https://www.youtube.com/watch?v=juxTmWbDyrg)
 
 
     
